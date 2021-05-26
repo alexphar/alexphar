@@ -1,4 +1,4 @@
-howdy 🙂 just a smoll soon-to-be software developer 
+howdy 🙂 just a fresh software developer graduate learnin her ways
 
 <!---
 alexphar/alexphar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
