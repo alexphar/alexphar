@@ -1,4 +1,4 @@
-alex | she/her | devops engineer at nokia
+alex | she/her | devops engineer | bachelors degree in ICT software development
 
 <!---
 alexphar/alexphar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
