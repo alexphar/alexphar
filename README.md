@@ -1,4 +1,4 @@
-howdy 🙂 just a fresh software developer graduate. she/her
+hi :) she/her | DevOps Engineer at Nokia
 
 <!---
 alexphar/alexphar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
