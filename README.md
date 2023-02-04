@@ -1,4 +1,4 @@
-hi :) she/her | DevOps Engineer at Nokia
+alex | she/her | devops engineer at nokia
 
 <!---
 alexphar/alexphar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
