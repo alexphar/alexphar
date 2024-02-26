@@ -1,4 +1,4 @@
-alex | she/her | devops engineer | bachelors degree in ICT software development
+alex | she/her | 3+ years as devops/ci engineer | bachelors degree in ICT software development
 
 <!---
 alexphar/alexphar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
