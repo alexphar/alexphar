@@ -1,4 +1,4 @@
-alex | she/her | 5+ years as Software Engineer | Specialized in CI/CD automation | bachelors degree in ICT software development
+alex | she/her | 5+ years as Software Engineer | specialized in CI/CD automation | bachelors degree in ICT software development
 
 -- Under construction ! --
 
@@ -10,7 +10,8 @@ Libraries/Frameworks:
 
 Workflow: 
 
-Virtualization: 
+Virtualization:
+
 Uni / Personal projects: 
 
 <!---
