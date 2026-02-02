@@ -1,6 +1,7 @@
 alex | she/her | 5+ years as Software Engineer | Specialized in CI/CD automation | bachelors degree in ICT software development
 
 -- Under construction ! --
+
 Languages:
 
 Developer Tools: 
